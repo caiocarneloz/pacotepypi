@@ -1,5 +1,5 @@
 # pacotepypi
-Example of PyPI package.
+This code was developed as a part of my [Medium Story](https://medium.com/data-hackers/pypi-publicando-seu-primeiro-pacote-de7eb75db452) at [Data Hackers](https://datahackers.com.br/) teaching how to upload your PyPI package.
 
 ## Getting Started
 #### Dependencies
